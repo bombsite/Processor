@@ -15,6 +15,6 @@ The design is designed to work with everything instantiated inside the FPGA but 
 We used the CY7C130, SN74LS181, and X2816C respectively.
 
 We included 2 raw binary files for direct pushing into the FPGA.
-The first has all modules in verilog. working_verilog.rbf
+The first has all modules in verilog. working_verilog.rbf .
 
-The second has most modules in verilog, but needs to be connected. final_working.rbf
+The second has most modules in verilog, but needs to be connected. final_working.rbf .
